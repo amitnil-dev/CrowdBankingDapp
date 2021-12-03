@@ -2,8 +2,6 @@ CrowdBank
 =========================
 ⚙️ Peer to Peer Loan System implemented on Ethereum Smart Contracts
 
-_Entry for [Proffer's GENERATION BLOCKCHAIN Hackathon](https://proffer.network/hackathon) at IIT Delhi_
-
   * [Problem Statement](#problem-statement)
   * [Solution Abstract](#solution-abstract)
   * [Demo Video](https://www.youtube.com/watch?v=2gzZemUs150)
