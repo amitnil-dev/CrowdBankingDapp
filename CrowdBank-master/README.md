@@ -54,13 +54,3 @@ Setup
 4. Run _testrpc_ in a new terminal.
 5. Run ```truffle deploy``` to build and deploy contract.
 6. Run ```npm run dev``` and go to [locahost:8080](http://localhost:8080).
-
-License
-===========
-
-[MIT License](https://anshul.mit-license.org/)
-
-The following people have been the contributors for the project. (Go star their repos :p)
- * [Anshul Shah](https://github.com/anshulshah96) 
- * [Nikhil Sheoran](https://github.com/nikhil96sher)
- * [Suraj Gupta](https://github.com/surajgupta97)
