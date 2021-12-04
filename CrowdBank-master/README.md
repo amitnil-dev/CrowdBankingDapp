@@ -4,7 +4,6 @@ CrowdBank
 
   * [Problem Statement](#problem-statement)
   * [Solution Abstract](#solution-abstract)
-  * [Demo Video](https://www.youtube.com/watch?v=2gzZemUs150)
   * [System Architecture](#system-architecture)
   * [Setup](#setup)
   * [License](#license)
